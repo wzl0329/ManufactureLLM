@@ -10,6 +10,8 @@ internlm2+lagent，通过微调调用智能制造领域的问题，如FJSP问题
 
 
 ## demo
+<img width="749" alt="lagent_run" src="https://github.com/wzl0329/ManufactureLLM/assets/52845811/f9c1e026-4563-4bee-8675-8c66f2cefa95">
+<img width="749" alt="lagent_run" src="https://github.com/wzl0329/ManufactureLLM/assets/52845811/7f42aaa3-1b7a-4c9f-a710-9014683a7d8b">
 
 
 
